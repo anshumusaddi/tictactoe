@@ -1,0 +1,28 @@
+body
+{
+    background-color: black;
+}
+td{
+    height: 150px;
+    width: 150px;
+    text-align: center;
+    border: 5px solid white;
+    color: white;
+    font-size: 100px
+}
+.jumbotron{
+    padding: 10px 10px 10px 10px;
+    color: white;
+    background-color: black;
+}
+hr{
+    color: white;
+    background-color: white;
+}
+.credit
+{
+    color: white;
+    font-size: 30px;
+    margin: auto;
+    text-align: center;
+}
